@@ -114,6 +114,18 @@ button{
   margin-top: 15px;
   text-decoration: none;
  }
+ /* geolocation */
+ .location{
+    border-radius: 50%;
+    background-color: #eeb853;
+ }
+ #out {
+    color: #eeb853;
+ }
+ #weather{
+    color: #eeb853;
+
+ }
  .close {
      position: absolute;
      top: 20px;
